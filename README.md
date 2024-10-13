@@ -112,7 +112,7 @@
                     <span class="line-content">{</span>
                  </div><div class="code-line">
                     <span class="line-number">03</span>
-                    <span class="line-content">    { <span class="hljs-string">"host_address"</span>, <span class="hljs-string">"http://new-lollms-server.com"</span> },</span>
+                    <span class="line-content">    { <span class="hljs-string">"host_address"</span>, <span class="hljs-string">"http://localhost:9600"</span> },</span>
                  </div><div class="code-line">
                     <span class="line-number">04</span>
                     <span class="line-content">    { <span class="hljs-string">"model_name"</span>, <span class="hljs-string">"new-model-name"</span> },</span>

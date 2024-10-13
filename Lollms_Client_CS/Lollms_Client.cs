@@ -84,7 +84,7 @@ namespace Lollms_Client_CS
 
         // Constructor
         public LollmsClient(
-            string hostAddress = null,
+            string hostAddress = "http://localhost:9600",
             string modelName = null,
             int ctxSize = 4096,
             int personality = -1,
